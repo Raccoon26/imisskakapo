@@ -34,7 +34,6 @@ function updateCounter(){
 
     document.getElementById("counter")
     .textContent =
-
     `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 }
